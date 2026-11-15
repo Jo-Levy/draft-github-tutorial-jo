@@ -23,7 +23,7 @@ title: "TODO - Your title"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-jlevy-workinggroup-titletutorial
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,10 +45,14 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: Jo Levy
     organization: Your Organization Here
-    email: your.email@example.com
-
+    email: josaxe@yahoo.com
+    
+    fullname: Jo Saxe Levy
+    organization: Your Organization Here
+    email: josaxe@icloud.com
+    
 normative:
 
 informative:
