@@ -9,30 +9,30 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+# area: AREA
+# workgroup: WG Working Group
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "Jo-Levy/draft-github-tutorial-jo"
+  latest: "https://Jo-Levy.github.io/draft-github-tutorial-jo/draft-jlevy-workinggroup-titletutorial.html"
 
 author:
  -
     fullname: Jo Levy
     organization: Your Organization Here
     email: josaxe@yahoo.com
-    
+
     fullname: Jo Saxe Levy
     organization: Your Organization Here
     email: josaxe@icloud.com
-    
+
 normative:
 
 informative:
