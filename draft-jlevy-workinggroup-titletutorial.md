@@ -57,7 +57,7 @@ TODO Introduction
 
 # here's the important part
 ## what it does
-## what it doesn't 
+## what it doesn't
 # here's more important stuff
 
 # Security Considerations {#security}
