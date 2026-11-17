@@ -1,0 +1,103 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-11-17T06:35:53.384243+00:00",
+  "repo": "Jo-Levy/draft-github-tutorial-jo",
+  "labels": [
+    {
+      "name": "accessibility",
+      "description": "Barrier affecting people with disabilities",
+      "color": "f143ab"
+    },
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOVvsVM88AAAABfhyPFw",
+      "title": "Why are there no examples?",
+      "url": "https://github.com/Jo-Levy/draft-github-tutorial-jo/issues/1",
+      "state": "OPEN",
+      "author": "Jo-Levy",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-11-15T23:08:47Z",
+      "updatedAt": "2026-11-15T23:08:47Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 2,
+      "id": "PR_kwDOVvsVM88AAAABPZZ3fA",
+      "title": "Update draft-jlevy-workinggroup-titletutorial.md",
+      "url": "https://github.com/Jo-Levy/draft-github-tutorial-jo/pull/2",
+      "state": "OPEN",
+      "author": "Jo-Levy",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-11-15T23:11:11Z",
+      "updatedAt": "2026-11-15T23:11:11Z",
+      "baseRepository": "Jo-Levy/draft-github-tutorial-jo",
+      "baseRefName": "main",
+      "baseRefOid": "ec74d1e71f627e29fc82cf910b1e37470e894821",
+      "headRepository": "Jo-Levy/draft-github-tutorial-jo",
+      "headRefName": "Jo-Levy-patch-1",
+      "headRefOid": "bece30e7930b2dbd42557c09779fbc6504453e0c",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
